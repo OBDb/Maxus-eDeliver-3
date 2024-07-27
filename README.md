@@ -1,2 +1,2 @@
-# Model make
+# Maxus eDeliver 3
 
